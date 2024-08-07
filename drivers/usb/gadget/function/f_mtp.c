@@ -39,7 +39,7 @@
 #include <linux/configfs.h>
 #include <linux/usb/composite.h>
 
-#include "configfs.h"
+#include "../configfs.h"
 #ifdef CONFIG_MEDIATEK_SOLUTION
 #include "usb_boost.h"
 //#include "aee.h"
